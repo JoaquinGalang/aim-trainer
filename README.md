@@ -4,4 +4,6 @@ This repository contains a Python-based Aim Trainer game using Pygame, designed 
 ## Setup
 1. Install [Python](https://www.python.org/downloads/)
 2. Install Pygame. Open your terminal or command prompt and run `pip install pygame`.
-3. Clone the repository and run the `aim_trainer.py` file.
+3. Clone the repository
+4. Navigate to the repository
+5. Run the `aim_trainer.py` file.
