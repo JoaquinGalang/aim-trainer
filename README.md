@@ -1,4 +1,4 @@
-### Aim Trainer 🎯
+# Aim Trainer 🎯
 This repository contains a Python-based Aim Trainer game using Pygame, designed to help improve your mouse accuracy and reaction time. Click the dart board as fast as you can. The shorter the intervals, the more accurate you are!
 
 ## Setup
